@@ -17,6 +17,6 @@ Install all the dependencies using npm<br>
 npm install<br><br>
 <br>
 Start the local development server<br>
-npm run start<br>
+npm run dev<br>
 <br>
-You can now access the server at http://localhost:8000<br>
+You can now access the server at hthe Given link thru cmd.  http://localhost:5173<br>
