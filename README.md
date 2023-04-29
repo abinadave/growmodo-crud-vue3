@@ -14,8 +14,8 @@ cd [Project Folder Name]<br>
 
  <br>
 Install all the dependencies using npm<br>
-npm install<br>
-
+npm install<br><br>
+<br>
 Start the local development server<br>
 npm run start<br>
 You can now access the server at http://localhost:8000<br>
