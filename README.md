@@ -12,10 +12,11 @@ git clone https://github.com/abinadave/growmodo-crud-vue3.git
 Switch to the repo folder<br>
 cd [Project Folder Name]<br>
 
- <br>
+<br>
 Install all the dependencies using npm<br>
 npm install<br><br>
 <br>
 Start the local development server<br>
 npm run start<br>
+<br>
 You can now access the server at http://localhost:8000<br>
